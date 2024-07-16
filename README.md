@@ -102,7 +102,7 @@ Para que no pierda su progreso en Ai, estos comandos realizarán un respaldo de 
 
 --- 
 
-### `🍟 CREADOR`
+### `🤴🏻 EDITOR Y CREADOR DEL BOT`
 <a
 href="https://github.com/shrkbadboy"><img src="https://github.com/shrkbadboy.png" width="400" height="400" alt="Creador"/></a>
 
