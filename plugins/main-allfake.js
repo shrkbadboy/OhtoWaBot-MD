@@ -37,40 +37,32 @@ global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/51939041500'
 global.namechannel = '🚩 𝗟𝘂𝗳𝗳𝘆 𝗕𝗼𝘁 - 𝗠𝗗​᭄ ᎪΝႮΝᏟᏆϴՏ'
 global.namechannel2 = '𝗠𝗼𝗼𝗻𝗹𝗶𝗴𝗵𝘁 - 𝗧𝗲𝗮𝗺'
-global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝗟𝘂𝗳𝗳𝘆𝗕𝗼𝘁'
-global.namecomu2 = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝗠𝗼𝗼𝗻𝗹𝗶𝗴𝗵𝘁'
-global.colab1 = '𝗚𝗮𝘁𝗮𝗕𝗼𝘁 & 𝗟𝘂𝗳𝗳𝘆𝗕𝗼𝘁'
-global.colab2 = '𝗦𝗵𝗶𝘇𝘂𝗸𝗮𝗕𝗼𝘁 & 𝗟𝘂𝗳𝗳𝘆𝗕𝗼𝘁'
 
 //Reacciones De Comandos.!
 global.rwait = '⏱️'
 global.done = '✅'
 global.error = '✖️'
 
-//Emojis determinado de LuffyBot
-global.emoji = '🚩'
-global.emoji2 = '🍟'
-global.emoji3 = '✨️'
-global.emoji4 = '🍭'
-global.emoji5 = '🐢'
-global.emojis = [emoji, emoji2, emoji3, emoji4, emoji5].getRandom()
+//Emojis determinado de Ai
+global.emoji = '✨️'
+global.emoji2 = '🍭'
+global.emoji3 = '☁️'
+global.emoji4 = '🤍'
+global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 //mensaje en espera
-global.wait = '*⏱️ 𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗼 ...*';
-global.waitt = '*⏱️ 𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗼 ...*';
-global.waittt = '*⏱️ 𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗼 ...*';
-global.waitttt = '*⏱️ 𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗼 ...*';
+global.wait = '*⏱️ 𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗮 ...*';
+global.waitt = '*⏱️ 𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗮 ...*';
+global.waittt = '*⏱️ 𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗮 ...*';
+global.waitttt = '*⏱️ 𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗮 ...*';
 
 //Enlaces
 var canal = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A' 
 var canal2 = 'https://whatsapp.com/channel/0029VaXaCa66xCSHugaf773M'  
-var git = 'https://github.com/OfcDiego' 
-var youtube = 'https://www.youtube.com/@OfcDiego' 
-var github = 'https://github.com/OfcDiego/LuffyBot-MD' 
-var facebook = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' 
-let tiktok = 'https://tiktok.com/@theluffybot'
+var git = 'https://github.com/shrkbadboy'  
+var github = 'https://github.com/shrkbadboy/OhtoWaBot-MD' 
 
-global.redes = [canal, canal2, git, youtube, github, facebook, tiktok].getRandom()
+global.redes = [canal, canal2, git, github].getRandom()
 
 global.canales = [canal, canal2].getRandom()
 
@@ -100,12 +92,10 @@ global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
 global.icono = [ 
-'https://qu.ax/ljre.jpg', 
-'https://qu.ax/vQmu.jpg',  
-'https://qu.ax/sVjE.jpg', 
-'https://qu.ax/AwKr.jpg', 
-'https://qu.ax/zLSn.jpg',
-'https://qu.ax/bJZW.jpg'
+'',
+'',
+'',
+''
 ].getRandom()
 
 global.rcanal = {
@@ -114,12 +104,12 @@ isForwarded: true,
 forwardedNewsletterMessageInfo: {
 newsletterJid: "120363263466636910@newsletter",
 serverMessageId: 100,
-newsletterName: 'Luffy Bot Channel 🚩',
+newsletterName: 'Ai Ohto Channel 💫',
 },
 externalAdReply: { 
 showAdAttribution: true,
 title: packname,
-body: '🍟 ¡Super Bot De WhatsApp!',
+body: '🍭 ¡Super Bot De WhatsApp!',
 mediaUrl: null,
 description: null,
 previewType: "PHOTO",
