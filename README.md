@@ -102,17 +102,9 @@ Para que no pierda su progreso en Ai, estos comandos realizarán un respaldo de 
 
 --- 
 
-### `🚩 DESARROLLADORES`
-<a
-href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="100" height="100" alt="Desarrollador"/></a>
-
-### `✨️ AGRADECIMIENTOS`
-<a
-href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="120" height="120" alt="Agradecimientos"/></a>
-
 ### `🍟 CREADOR`
 <a
-href="https://github.com/shrkbadboy"><img src="https://github.com/shrkbadboy.png" width="130" height="130" alt="Creador"/></a>
+href="https://github.com/shrkbadboy"><img src="https://github.com/shrkbadboy.png" width="400" height="400" alt="Creador"/></a>
 
 > Copyright (c) 2024 **[×͜×AloneBoy](https://github.com/shrkbadboy/OhtoWaBot-MD)**.
 
