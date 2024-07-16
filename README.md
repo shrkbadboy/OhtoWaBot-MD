@@ -1,20 +1,14 @@
-> 🚩 Versión Actual: 2.0.2
+> 🍟 Versión Actual: 2.0.2
 
-## **`🍟 Luffy Bot - MD`**
+## **`🍭 Ai Ohto - MD`**
 
-![LuffyBot](https://telegra.ph/file/a7a9798496639ce074237.jpg)
+![AiOhto](https://telegra.ph/file/96fa8ef1653b6bb3d1f88.jpg)
 
 ---
 
-### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba El Bot Aqui" width="42" height="42"> Prueba El Bot Aqui
+🍭 **`INSTALACION MANUAL POR TERMUX`**
 
-> Si Deseas Probar El Bot Antes De Instalarlo, Click Abajo. 🍟
-
-[![Click Aquí](https://img.shields.io/badge/Grupo-Luffy-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Em1J2VaglHc1fe26YtBDCS)
-
-🍟 **`INSTALACION MANUAL POR TERMUX`**
-
-[`🚩 Instalar Termux Clic Aqui`](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
+[`🍟 Instalar Termux Clic Aqui`](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
 
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
@@ -25,7 +19,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/OfcDiego/LuffyBot-MD && cd LuffyBot-MD
+git clone https://github.com/shrkbadboy/OhtoWaBot-MD && cd OhtoWaBot-MD
 ```
 ```bash
 yarn install && npm install
@@ -34,40 +28,40 @@ yarn install && npm install
 npm start
 ```
 
-🍟 **`ACTIVAR EN TERMUX EN CASO DE DETENERSE`**
+🍭 **`ACTIVAR EN TERMUX EN CASO DE DETENERSE`**
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd LuffyBot-MD
+> cd OhtoWaBot-MD
 > npm start
 ```
 
-🚩 **`OBTENER OTRO CODIGO QR`**
+🍭 **`OBTENER OTRO CODIGO QR`**
 ```bash
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd LuffyBot-MD
-> rm -rf LuffySession
+> cd OhtoWaBot-MD
+> rm -rf AiSession
 > npm start
 ```
 
-🍟 **`LUFFY 24/7 (TERMUX)`**
+🍭 **`AI OHTO 24/7 (TERMUX)`**
 ```bash
 > termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ```
 
-🚩 **`ACTUALIZAR LUFFY`**
-> Note Comandos para actualizar Luffy - MD de forma automática
+🚩 **`ACTUALIZAR AI OHTO`**
+> Note Comandos para actualizar Ai Ohto - MD de forma automática
 ```bash
-grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/OfcDiego/LuffyBot-MD/master/update.sh | bash
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/shrkbadboy/OhtoWaBot-MD/master/update.sh | bash
 ```
-Para que no pierda su progreso en Luffy, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
+Para que no pierda su progreso en Ai, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 
 > Warning Estos comandos solo funcionan para TERMUX, REPLIT, LINUX
 
 ---
 
 #### ☂️ ACTIVA EN HEROKU ☂️
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OfcDiego/LuffyBot-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shrkbadboy/OhtoWaBot-MD)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
@@ -77,21 +71,13 @@ Para que no pierda su progreso en Luffy, estos comandos realizarán un respaldo 
 
 
 #### 🟢 ACTIVAR EN CODES SPACES 
-[`CREAR SERVIDOR`](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=OfcDiego/LuffyBot-MD&ref=main&geo=UsEast)
+[`CREAR SERVIDOR`](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=shrkbadboy/OhtoWaBot-MD&ref=main&geo=UsEast)
 
 #### ⚡ ACRIVAR EN REPLIT
-[![`CREAR SERVIDOR REPLIT`](https://repl.it/badge/github/OfcDiego/LuffyBot-MD)](https://repl.it/github/OfcDiego/LuffyBot-MD)
+[![`CREAR SERVIDOR REPLIT`](https://repl.it/badge/github/shrkbadboy/OhtoWaBot-MD)](https://repl.it/github/shrkbadboy/OhtoWaBot-MD)
 
 #### 🤍 ACTIVAR EN RENDER
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2OfcDiego%LuffyBot-MD) 
-
----
-
-## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Bot Oficial ☄️
-
-<a href="https://wa.me/573218138672?text=!menu"><img alt="Bot Oficial ☄️" src="https://img.shields.io/badge/Bot - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-> No Spam Al Bot!
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2shrkbadboy%OhtoWaBot-MD) 
 
 ---
 
@@ -117,18 +103,17 @@ Para que no pierda su progreso en Luffy, estos comandos realizarán un respaldo 
 --- 
 
 ### `🚩 DESARROLLADORES`
-<a href="https://github.com/OfcDiego/LuffyBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=OfcDiego/LuffyBot-MD" /> 
-</a>
+<a
+href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="100" height="100" alt="Desarrollador"/></a>
 
 ### `✨️ AGRADECIMIENTOS`
 <a
-href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="120" height="120" alt="Agradecimientos"/></a>
+href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="120" height="120" alt="Agradecimientos"/></a>
 
 ### `🍟 CREADOR`
 <a
-href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="130" height="130" alt="Diego"/></a>
+href="https://github.com/shrkbadboy"><img src="https://github.com/shrkbadboy.png" width="130" height="130" alt="Creador"/></a>
 
-> Copyright (c) 2024 **[OfcDiego](https://github.com/OfcDiego/LuffyBot-MD)**.
+> Copyright (c) 2024 **[×͜×AloneBoy](https://github.com/shrkbadboy/OhtoWaBot-MD)**.
 
 **`¡GRACIAS POR PREFERIRNOS!` 🍟**
