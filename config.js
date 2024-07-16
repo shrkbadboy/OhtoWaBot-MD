@@ -43,10 +43,8 @@ global.imagen3 = fs.readFileSync('./Menu3.jpg')
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
 global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A' 
 global.channel2 = 'https://whatsapp.com/channel/0029Vablj8M05MUnustq3q1S' 
-global.yt = 'https://www.youtube.com/@OfcDiego' 
-global.md = 'https://github.com/shrkbadboy/OhtoWaBot-MD'
-global.fb = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' 
-global.tiktok = 'https://tiktok.com/@theluffybot' 
+global.yt = 'https://www.youtube.com/@shrkbadboy' 
+global.md = 'https://github.com/shrkbadboy/OhtoWaBot-MD'  
 
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
 global.d = new Date(new Date + 3600000);
