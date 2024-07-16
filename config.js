@@ -41,12 +41,6 @@ global.imagen2 = fs.readFileSync('./Menu2.jpg')
 global.imagen3 = fs.readFileSync('./Menu3.jpg')
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = ''
-global.gp2 = ''
-global.gp3 = ''
-global.gp4 = '' 
-global.comunidad1 = '' 
-global.comunidad2 = 'https://chat.whatsapp.com/GpbF3JCTEr2CSj3zLJ1IQj' 
 global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A' 
 global.channel2 = 'https://whatsapp.com/channel/0029Vablj8M05MUnustq3q1S' 
 global.yt = 'https://www.youtube.com/@OfcDiego' 
